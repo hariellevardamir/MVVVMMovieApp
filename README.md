@@ -1,5 +1,5 @@
 # MVVVMMovieApp
- Bu proje, MVVM (Model-View-ViewModel) mimarisi kullanılarak geliştirilmiş bir yemek uygulamasını içermektedir.
+ Bu proje, MVVM (Model-View-ViewModel) mimarisi kullanılarak geliştirilmiş bir film uygulamasını içermektedir.
 
 
 ##Genel Bakış
@@ -34,15 +34,16 @@ WebView
 
 ## Ekran Görüntüleri
 
+![Screenshot 1](MVVMMovieApp/app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Favorites Fragment.jpg)
 ![Screenshot 1](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Favorites Fragment.jpg)
 ![Screenshot 2](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Favorites Fragment2.jpg)
 ![Screenshot 3](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App HomeFragment.jpg)
 ![Screenshot 4](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App HomeFragment2.jpg)
 ![Screenshot 5](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Movie Detail.jpg)
 ![Screenshot 6](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Movie Detail2.jpg)
-![Screenshot 6](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Movie Search Fragment.jpg)
-![Screenshot 6](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Movie Search Fragment2.jpg)
-![Screenshot 6](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Movie Wev View.jpg)
+![Screenshot 7](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Movie Search Fragment.jpg)
+![Screenshot 8](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Movie Search Fragment2.jpg)
+![Screenshot 9](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Movie Wev View.jpg)
 
 
 ##Ek Bilgiler
@@ -53,7 +54,11 @@ Bu uygulama The Movie Database (TMDb) API kullanılarak geliştirilmiştir.
 ##Kurulum
 
 Proje dosyalarını bilgisayarınıza klonlayın veya ZIP olarak indirin.
+
 git clone https://github.com/hariellevardamir/MVVMMovieApp.git
+
 Android Studio'da projeyi açın.
+
 API anahtarınızı Constants.kt dosyasında güncelleyin.
+
 Projeyi çalıştırın.
