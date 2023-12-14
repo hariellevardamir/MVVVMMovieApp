@@ -34,7 +34,7 @@ WebView
 
 ## Ekran Görüntüleri
 
-![Screenshot 1](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/home_fragment.jpg)
+![Screenshot 1](MVVMMovieApp/app/src/main/java/com/example/mvvmmovieapp/util/screenshots/home_fragment.jpg)
 ![Screenshot 2](app/src/main/java/com/example/mvvmfoodapp/util/screenshots/favorite_fragment.jpg)
 ![Screenshot 3](app/src/main/java/com/example/mvvmfoodapp/util/screenshots/categories_fragment.jpg)
 ![Screenshot 4](app/src/main/java/com/example/mvvmfoodapp/util/screenshots/search_fragment.jpg)
