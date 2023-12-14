@@ -55,7 +55,7 @@ Bu uygulama The Movie Database (TMDb) API kullanılarak geliştirilmiştir.
 
 Proje dosyalarını bilgisayarınıza klonlayın veya ZIP olarak indirin.
 
-git clone https://github.com/hariellevardamir/MVVMMovieApp.git
+https://github.com/hariellevardamir/MVVVMMovieApp.git
 
 Android Studio'da projeyi açın.
 
