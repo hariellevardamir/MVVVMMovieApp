@@ -34,7 +34,7 @@ WebView
 
 ## Ekran Görüntüleri
 
-![Screenshot 1](MVVMMovieApp/app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Favorites Fragment.jpg)
+![Screenshot 1]([app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Favorites Fragment.jpg](https://github.com/hariellevardamir/MVVVMMovieApp/blob/9d630f33d0a4319f8044e254fdf31d6f2aaaeea9/app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie%20App%20Favorites%20Fragment.jpg))
 ![Screenshot 1](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Favorites Fragment.jpg)
 ![Screenshot 2](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Favorites Fragment2.jpg)
 ![Screenshot 3](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App HomeFragment.jpg)
