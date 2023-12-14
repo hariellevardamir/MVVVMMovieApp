@@ -34,17 +34,12 @@ WebView
 
 ## Ekran Görüntüleri
 
-![Screenshot 1]([app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Favorites Fragment.jpg]!
-[Screenshot 1]((https://github.com/hariellevardamir/MVVVMMovieApp/blob/9d630f33d0a4319f8044e254fdf31d6f2aaaeea9/app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie%20App%20Favorites%20Fragment.jpg))
-![Screenshot 1](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Favorites Fragment.jpg)
-![Screenshot 2](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Favorites Fragment2.jpg)
-![Screenshot 3](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App HomeFragment.jpg)
-![Screenshot 4](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App HomeFragment2.jpg)
-![Screenshot 5](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Movie Detail.jpg)
-![Screenshot 6](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Movie Detail2.jpg)
-![Screenshot 7](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Movie Search Fragment.jpg)
-![Screenshot 8](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Movie Search Fragment2.jpg)
-![Screenshot 9](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/Movie App Movie Wev View.jpg)
+![Screenshot 1](app/src/main/java/com/example/mvvmfoodapp/util/screenshots/home_fragment.jpg)
+![Screenshot 2](app/src/main/java/com/example/mvvmfoodapp/util/screenshots/favorite_fragment.jpg)
+![Screenshot 3](app/src/main/java/com/example/mvvmfoodapp/util/screenshots/categories_fragment.jpg)
+![Screenshot 4](app/src/main/java/com/example/mvvmfoodapp/util/screenshots/search_fragment.jpg)
+![Screenshot 5](app/src/main/java/com/example/mvvmfoodapp/util/screenshots/bottom_sheet_fragment.jpg)
+![Screenshot 6](app/src/main/java/com/example/mvvmfoodapp/util/screenshots/meal_activity.jpg)
 
 
 ##Ek Bilgiler
