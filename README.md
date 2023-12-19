@@ -25,14 +25,23 @@ Film silindikten snackbar gösterilir ve içinde filmin isim bilgisi ile beraber
 ##Kullanılan Teknolojiler
 
 Kotlin
+
 Android Architecture Components (ViewModel, LiveData)
+
 ViewBinding
+
 NavigationComponent
+
 Retrofit
+
 Glide
+
 Database(room)
+
 Coroutines
+
 RecyclerView
+
 WebView
 
 
