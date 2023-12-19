@@ -3,14 +3,14 @@
 
 
 
-##Genel Bakış
+## Genel Bakış
 
 
 Bu proje, API kullanarak film verilerini alıp gösteren bir Android uygulamasını içermektedir. Aşağıda, projeyi anlamak ve çalıştırmak için gerekli bilgiler bulunmaktadır.
 
 
 
-##Özellikler
+## Özellikler
 
 Home Fragment içinde popüler filmler, yüksek puanlı filmler ve api desteği aldığımız siteye yüklenecek olan filmler recyclerviewlar içinde gösterilmiştir.
 Bu recyclerviewlar içinde gösterilen bir filme tıklanarak MovieDetailsActivity'e geçiş yapılabilir ve burada filme ait bilgiler ( poster,isim,puan,süre,çıkış tarihi,türü,yapım şirketi ve yapım şirketinin ülkesi, filme ait bir link ve özet) yer almaktadır.
@@ -26,28 +26,28 @@ Film silindikten snackbar gösterilir ve içinde filmin isim bilgisi ile beraber
 
 
 
-##Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 
--Kotlin
+- Kotlin
 
--Android Architecture Components (ViewModel, LiveData)
+- Android Architecture Components (ViewModel, LiveData)
 
--ViewBinding
+- ViewBinding
 
--NavigationComponent
+- NavigationComponent
 
--Retrofit
+- Retrofit
 
--Glide
+- Glide
 
--Database(room)
+- Database(room)
 
--Coroutines
+- Coroutines
 
--RecyclerView
+- RecyclerView
 
--WebView
+- WebView
 
 
 ## Ekran Görüntüleri
@@ -64,14 +64,14 @@ Film silindikten snackbar gösterilir ve içinde filmin isim bilgisi ile beraber
 ![MovieAppFavoritesFragment2 9](app/src/main/java/com/example/mvvmmovieapp/util/screenshots/MovieAppFavoritesFragment2.jpg)
 
 
-##Ek Bilgiler
+## Ek Bilgiler
 
 
 Bu uygulama The Movie Database (TMDb) API kullanılarak geliştirilmiştir.
 
 
 
-##Kurulum
+## Kurulum
 
 
 Proje dosyalarını bilgisayarınıza klonlayın veya ZIP olarak indirin.
