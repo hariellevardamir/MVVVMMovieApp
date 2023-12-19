@@ -18,8 +18,8 @@ MovieDetailsActivity'de açtığımız filmi sağ üstte bulunan favori butonu i
 Search Fragment'de ise isime göre api üzerinde kayıtlı olan filmleri aratabiliriz.Burada arattığımız kelimeye göre bütün sonuçları recyclerview içinde gösterilir 
 ve elde edilen sonuçların sayısı da üstte belirtilir.Burada da arattığımız sonuçlardan istenilen filme tıklanarak MovieDetailsActivity'e geçiş yapılabilir.
 
-Favorites Fragment'da ise favorilere eklediğimiz filmler recyclerview içinde gösterilmekte.Burada gösterilen film sola kaydırılarak room database'den ve tabi ki recyclerview'dan silinebilir.
-Film silindikten snackbar gösterilir ve içinde filmin isim bilgisi ile beraber silindi yazsısı gösterilir.Sncakbar içine yerleştirilen "undo" ya basılarak film tekrardan room database ve recyclerview'a eklenebilir.
+Favorites Fragment'da ise favorilere eklediğimiz filmler recyclerview içinde gösterilmekte.Burada gösterilen film sola kaydırılarak room database'den silme işlemi gerçekleştirebilir.
+Film silindikten snackbar gösterilir ve içinde filmin isim bilgisi ile beraber silindi yazsısı gösterilir.Snackbar içine yerleştirilen "undo" ya basılarak film tekrardan room database ve recyclerview'a eklenebilir.
 
 
 ##Kullanılan Teknolojiler
