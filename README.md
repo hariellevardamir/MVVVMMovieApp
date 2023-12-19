@@ -2,9 +2,12 @@
  Bu proje, MVVM (Model-View-ViewModel) mimarisi kullanılarak geliştirilmiş bir film uygulamasını içermektedir.
 
 
+
 ##Genel Bakış
 
+
 Bu proje, API kullanarak film verilerini alıp gösteren bir Android uygulamasını içermektedir. Aşağıda, projeyi anlamak ve çalıştırmak için gerekli bilgiler bulunmaktadır.
+
 
 
 ##Özellikler
@@ -22,27 +25,29 @@ Favorites Fragment'da ise favorilere eklediğimiz filmler recyclerview içinde g
 Film silindikten snackbar gösterilir ve içinde filmin isim bilgisi ile beraber silindi yazsısı gösterilir.Snackbar içine yerleştirilen "undo" ya basılarak film tekrardan room database ve recyclerview'a eklenebilir.
 
 
+
 ##Kullanılan Teknolojiler
 
-Kotlin
 
-Android Architecture Components (ViewModel, LiveData)
+-Kotlin
 
-ViewBinding
+-Android Architecture Components (ViewModel, LiveData)
 
-NavigationComponent
+-ViewBinding
 
-Retrofit
+-NavigationComponent
 
-Glide
+-Retrofit
 
-Database(room)
+-Glide
 
-Coroutines
+-Database(room)
 
-RecyclerView
+-Coroutines
 
-WebView
+-RecyclerView
+
+-WebView
 
 
 ## Ekran Görüntüleri
@@ -61,10 +66,13 @@ WebView
 
 ##Ek Bilgiler
 
+
 Bu uygulama The Movie Database (TMDb) API kullanılarak geliştirilmiştir.
 
 
+
 ##Kurulum
+
 
 Proje dosyalarını bilgisayarınıza klonlayın veya ZIP olarak indirin.
 
